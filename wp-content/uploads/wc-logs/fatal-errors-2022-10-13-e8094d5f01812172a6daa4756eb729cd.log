@@ -1,0 +1,2 @@
+2022-10-13T04:16:07+00:00 CRITICAL Out of memory (allocated 44040192) (tried to allocate 20480 bytes) in C:\xampp\htdocs\myproject\wordpress\wp-includes\pomo\mo.php on line 323
+
