@@ -11,11 +11,11 @@
 	<atom:link href="http://localhost/myproject/wordpress/san-pham/merrell-mens-hydro-moc-aquatic-water-shoe/feed/" rel="self" type="application/rss+xml" />
 	<link>https://duyle99.github.io/mywordpres/san-pham/merrell-mens-hydro-moc-aquatic-water-shoe/</link>
 	<description>Một trang web mới sử dụng WordPress</description>
-	<lastBuildDate>Thu, 13 Oct 2022 11:30:05 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 26 Oct 2022 12:30:25 +0000</lastBuildDate>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.0.3</generator>
+	<generator>https://wordpress.org/?v=6.1</generator>
 </channel>
 </rss>
